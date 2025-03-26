@@ -1,4 +1,4 @@
-# ATM System - Python Program
+# ATM CONSOLE BASED USING PYTHON 
 
 This Python program simulates an **ATM** system with a simple console-based interface. The system provides various functionalities, such as withdrawing funds, depositing money, generating and verifying PINs, and retrieving mini statements. It uses a dictionary to store account information and demonstrates basic Python concepts like loops, conditionals, and data structures.
 
