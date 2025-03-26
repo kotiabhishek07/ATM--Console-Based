@@ -66,7 +66,3 @@ This Python program simulates an **ATM** system with a simple console-based inte
 4. **Option 4 - Mini Statement**:
    - The user enters their account number and PIN. If the PIN matches, the system displays their account information, including name, account number, date of birth, and balance.
 
-## Additional Notes
-
-- This project is a simple console-based ATM simulation. For production systems or more complex simulations, you could integrate a GUI, a database, or implement features like password encryption.
-- This program does not persist data between sessions. Once the program is closed, all account data is reset. You can modify the code to save data in a file or a database if needed.
